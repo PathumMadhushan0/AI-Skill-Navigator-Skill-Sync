@@ -1,0 +1,11 @@
+{
+  "title": "AI Skill Navigator",
+  "description": "Explore AI-ready careers and build a personalized skill roadmap.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": true
+  }
+}
